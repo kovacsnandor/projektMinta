@@ -1,2 +1,3 @@
-heló
-otthon vagyok
+heló  
+otthon vagyok  
+iskolában vagyok  
